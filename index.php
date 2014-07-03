@@ -7,7 +7,6 @@
 
 <body>
 test first git
-Hello everybody
 <div>contents bla bla bla</div>
 </body>
 </html>
