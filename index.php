@@ -11,8 +11,15 @@ test first git
 <?php
 function new_feature(){
 		
-	echo 'new8';
+	echo 'new_teststage';
 }
 ?>
+
+amenda test
+
+
+powerfull
+
+and
 </body>
 </html>
