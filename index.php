@@ -8,5 +8,10 @@
 <body>
 test first git
 <p>Head</p>
+<?php
+function new_feature(){
+	echo 'newfeature';	
+}
+?>
 </body>
 </html>
