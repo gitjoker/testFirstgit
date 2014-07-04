@@ -10,10 +10,8 @@ test first git
 <p>Head</p>
 <?php
 function new_feature(){
-	echo 'newfeature';	
-	echo 'new2';
-	echo 'new3';
-	echo 'new4';
+		
+	echo 'new8';
 }
 ?>
 </body>
