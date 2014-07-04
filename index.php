@@ -13,6 +13,7 @@ function new_feature(){
 	echo 'newfeature';	
 	echo 'new2';
 	echo 'new3';
+	echo 'new4';
 }
 ?>
 </body>
