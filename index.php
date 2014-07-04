@@ -11,6 +11,7 @@ test first git
 <?php
 function new_feature(){
 	echo 'newfeature';	
+	echo 'new2';
 }
 ?>
 </body>
