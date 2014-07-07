@@ -1,5 +1,5 @@
 <?php
 function power(){
-	echo 'power';	
+	echo 'powers';	
 }
 ?>
