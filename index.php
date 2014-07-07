@@ -21,5 +21,7 @@ amenda test
 powerfull
 
 and
+
+clear
 </body>
 </html>
