@@ -24,5 +24,7 @@ and
 
 clear
 clear2
+
+clear3
 </body>
 </html>
