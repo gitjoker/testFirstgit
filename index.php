@@ -23,5 +23,6 @@ powerfull
 and
 
 clear
+clear2
 </body>
 </html>
